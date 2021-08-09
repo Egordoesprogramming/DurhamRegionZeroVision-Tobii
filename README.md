@@ -3,3 +3,5 @@ In response to the serious danger posed by distracted driving, CityStudio Durham
 
 This is a fully working version of the simulator, so if you have a Tobii eyetracker 4C go ahead a TRY IT OUT! The game can be played on keyboard, Xbox/PS4 controller, and Pico controllers. Check out User Manual for more details!
 
+Check out the Video Demo here: https://youtu.be/ngK-56I5POw
+
